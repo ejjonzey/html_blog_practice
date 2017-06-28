@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+<body>
+
+<main>
+<section>
+Welcome to my blog
+<p>Get to know me.</p>
+</section>
+
+</main>
+<nav>
+<a href="">Home</a>
+<a href="">About</a>
+</nav>
+<h2>Articles</h2>
+
+<h3>Article Title One</h3>
+
+<h4>Article title two</h4> 
+</header>
+</body>
+</head>
+<footer>Footer links</footer>
+</html>
