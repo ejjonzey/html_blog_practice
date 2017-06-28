@@ -1,6 +1,8 @@
 <!doctype html>
 <html>
 <head>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
 <body>
 
 <main>
@@ -23,7 +25,6 @@ Welcome to my blog
 <p>knqdqewodnewd</p>
 </header>
 </body>
-</head>
 <footer>Footer links</footer>
 <a href="">stuff</a>
 <a href="">stuff</a>
