@@ -1,7 +1,9 @@
 <!doctype html>
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="mystyle.css">
+<title>My Blog Post</title>
+<link href="stylesheet" type="text/css" href="style.css">
+<link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow" rel="stylesheet">
 </head>
 <body>
 
